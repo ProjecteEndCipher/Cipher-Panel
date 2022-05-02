@@ -44,7 +44,7 @@ Disconnect from the internet your server and access it via KVM (if possible).
 
 Blacklist their domains on your firewall. This will will slow them down however we’ve seen instances where they will use proxies to evade this but on most leaks this will help.
 
-Edit the hosts file `C://windows/system32/drivers/etc/hosts.txt` and add.
+Edit the hosts file `C://windows/system32/drivers/etc/hosts` and add.
 
 ```
 0.0.0.0 Cipher-panel.me 
