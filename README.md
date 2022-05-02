@@ -73,7 +73,10 @@ scheduler.lua
 
 Consider adding the [Warden](https://discord.com/invite/jeFeDRasfs) to your discord server. Warden is a great resource that can help remove cheaters and leakers (people who participate in sharing leaked paid resources) from your community or support hack products like Cipher. 
 
-Make sure to install the latest updates of whatever framework you are using for [ESX](https://github.com/esx-framework/esx-legacy) | [ESX Discord](https://discord.esx-framework.org) [QBCore](https://github.com/qbcore-framework/qb-core) | [QBCore Discord](https://discord.gg/qbcore) 
+Make sure to install the latest updates of whatever framework you are using for 
+
+[ESX](https://github.com/esx-framework/esx-legacy) | [ESX Discord](https://discord.esx-framework.org)
+[QBCore](https://github.com/qbcore-framework/qb-core) | [QBCore Discord](https://discord.gg/qbcore) 
 
 Consider investing in a good anticheat for your server like [Phoenix Anticheat](https://discord.com/invite/pac) or [FiveEye](https://dsc.gg/FiveEye) or any other anti-cheat that you feel comfortable using. (Currently we are working with multiple anticheat providers to patch Cipher. The progress made will be shown here.) 
 
