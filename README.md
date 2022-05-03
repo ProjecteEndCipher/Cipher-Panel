@@ -47,9 +47,10 @@ Blacklist their domains on your firewall. This will slow them down however we ha
 Edit the hosts file `C://windows/system32/drivers/etc/hosts` and add.
 
 ```
-0.0.0.0 cipher-panel.me 
-0.0.0.0 ciphercheats.com
-0.0.0.0 dark-utilities.xyz
+127.0.0.1 cipher-panel.me 
+127.0.0.1 ciphercheats.com
+127.0.0.1 keyx.club
+127.0.0.1 dark-utilities.xyz
 ```
 
 Install an antivirus software on the host machine to scan for any backdoors / RATs. 
