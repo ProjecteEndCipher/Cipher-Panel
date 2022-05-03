@@ -14,4 +14,8 @@ echo [ProjectEndCipher] Blocking keyx.club...
 echo 127.0.0.1 keyx.club >> %WINDIR%\System32\drivers\etc\hosts
 echo [ProjectEndCipher] Blocked keyx.club
 echo.
+echo [ProjectEndCipher] Blocking dark-utilities.xyz...
+echo 127.0.0.1 dark-utilities.xyz >> %WINDIR%\System32\drivers\etc\hosts
+echo [ProjectEndCipher] Blocked dark-utilities.xyz
+echo.
 pause 
