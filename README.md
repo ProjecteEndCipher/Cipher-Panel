@@ -1,5 +1,5 @@
 <p align="center">
-# [#ProjectEndCipher Discord Server](https://discord.gg/kJdBQQcesA "https://discord.gg/kJdBQQcesA")
+<h1><a href="https://discord.gg/kJdBQQcesA">ProjectEndCipher Discord Server</a></h1>
 </p>
 
 # Cipher Panel
