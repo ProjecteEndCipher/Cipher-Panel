@@ -1,6 +1,4 @@
-<p align="center">
-<h1><a href="https://discord.gg/kJdBQQcesA">ProjectEndCipher Discord Server</a></h1>
-</p>
+<h1 align="center"><a href="https://discord.gg/kJdBQQcesA">ProjectEndCipher Discord Server</a></h1>
 
 # Cipher Panel
 Cipher is a paid Remote Execution/Administration Tool (RAT). Cipher's customers generate 4 lines of Lua code to inject into resources (many of them obfuscate the code) which will download remote code from the Cipher servers. We've found many leaked resources are infected with Cipher-Panel. This repository will talk more about how Cipher works.
